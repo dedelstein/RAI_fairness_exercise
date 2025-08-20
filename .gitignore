@@ -1,7 +1,7 @@
 # dev
 /dev/
 /pretrained_model/
-/datafiles/
+# /datafiles/
 
 
 # __pycache__
